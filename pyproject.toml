@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "resume_text_project"
+version = "0.0.1"
+description = "Projet de résumé de textes"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = []
+
+[project.urls]
+"Homepage" = "https://github.com/ngassamven/resume_text_project"
+"Bug Tracker" = "https://github.com/ngassamven/resume_text_project/issues"
